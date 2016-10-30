@@ -1,6 +1,6 @@
 # Intent1
 **Judul Project**
-- Praktek Intent 1 (Start Activity)
+- Praktek Intent 1 (startActivity)
 
 **Screen Shoot**
 ![intent1b](https://cloud.githubusercontent.com/assets/22114056/19837893/4cbebe22-9ef6-11e6-8a2d-56f376e9770d.JPG)
